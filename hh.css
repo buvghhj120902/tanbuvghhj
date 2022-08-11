@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/32/60/ee/3260ee35b94b8e6f9ca410d66f1ab280.jpg");
+}
+h1{
+    color: aliceblue;
+    position: absolute;
+    left: 580px;
+    font-size: 100px;
+    top: 175px;
+}
